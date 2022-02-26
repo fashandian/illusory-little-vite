@@ -13,7 +13,10 @@
     "koa": "^2.13.4"
   },
   "devDependencies": {
+    "@types/koa": "^2.13.4",
     "@types/node": "^17.0.18",
+    "@vue/compiler-dom": "^3.2.31",
+    "@vue/compiler-sfc": "^3.2.31",
     "@vue/reactivity": "^3.2.31",
     "@vue/runtime-core": "^3.2.31",
     "@vue/runtime-dom": "^3.2.31",
